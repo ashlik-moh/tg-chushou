@@ -1,7 +1,7 @@
 ---
 title: "TG账号购买,AI站长运营,关键词排名优化,SEO内容增长,网站流量提升,外链建设策略,站点数据分析"
 description: "TG账号购买,AI站长运营,关键词排名优化,SEO内容增长,网站流量提升,外链建设策略,站点数据分析"
-keywords:["购买 Telegram 账号", "TG 账号批发", "telegram 账号注册", "电报账号","纸飞机账号购买","高级大会员购买"]
+keywords: ["购买 Telegram 账号", "TG 账号批发", "telegram 账号注册", "电报账号"]
 category: "tg号购买推荐kkpp.us"
 date: 2026-09-21
 author: "tg号购买推荐kkpp.us"
